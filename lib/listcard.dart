@@ -1,12 +1,11 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_awesome_todo/listmodel.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_awesome_todo/todo.dart';
 
 class Listcard extends StatefulWidget {
   Listcard(this.list);
 
-  final Listmodel list;
+  final Todo list;
 
   @override
   _MyListcardState createState() => _MyListcardState();
