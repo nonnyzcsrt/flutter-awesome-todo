@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>768872471615-0o5rjgeurbi35suhac23ndajmot2bes3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.768872471615-0o5rjgeurbi35suhac23ndajmot2bes3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRibz16irv5wUbUwBDyKwLfkh75IblZj0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>768872471615</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pornthep.flutterawesometodo</string>
+	<key>PROJECT_ID</key>
+	<string>awesome-todo-8263d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>awesome-todo-8263d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:768872471615:ios:aa256e65af246a35</string>
+	<key>DATABASE_URL</key>
+	<string>https://awesome-todo-8263d.firebaseio.com</string>
+</dict>
+</plist>

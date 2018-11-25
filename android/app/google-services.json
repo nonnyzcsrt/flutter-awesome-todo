@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "768872471615",
+    "firebase_url": "https://awesome-todo-8263d.firebaseio.com",
+    "project_id": "awesome-todo-8263d",
+    "storage_bucket": "awesome-todo-8263d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768872471615:android:aa256e65af246a35",
+        "android_client_info": {
+          "package_name": "com.pornthep.flutterawesometodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768872471615-uqpk8liim8ja74mefgdhrsovfakfl2ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFyXvPcoLc1syCGJMOZLVq2-x7wHm5_ck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
